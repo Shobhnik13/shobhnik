@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shobhnik13&show_icons=true&locale=en" alt="shobhnik13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhnik13&" alt="shobhnik13" /></p>
-[![@shobhnik13's Holopin board](https://holopin.me/shobhnik13)](https://holopin.io/@shobhnik13)

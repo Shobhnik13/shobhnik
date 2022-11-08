@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/shobhnik__13" target="blank"><img src="https://img.shields.io/twitter/follow/shobhnik__13?logo=twitter&style=for-the-badge" alt="shobhnik__13" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript projects**
+- 🔭 I’m currently working on **Advanced coneps of JS**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **frontend development**
 

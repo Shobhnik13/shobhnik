@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shobhnik</h1>
-<h3 align="center">An aspiring full stack developer from India</h3>
+<h3 align="center">An aspiring full stack developer from India and a Web 3.0 enthusiast</h3>
 <img align="right" alt="Coding" width="400" 
 src="https://www.lambdatest.com/resources/images/news24.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhnik13&label=Profile%20views&color=0e75b6&style=flat" alt="shobhnik13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shobhnik__13" target="blank"><img src="https://img.shields.io/twitter/follow/shobhnik__13?logo=twitter&style=for-the-badge" alt="shobhnik__13" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced concepts of JS**
+- 🔭 I’m currently working on **React Js**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS and Blockchain**
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **  Frontend development**
 
 - 📫 How to reach me **shobhnikw@gmail.com**
 

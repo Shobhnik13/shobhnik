@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shobhnik</h1>
-<h3 align="center">An aspiring full stack developer and a Web 3.0 enthusiast  from India</h3>
+<h3 align="center">A frontend developer and a Web 3.0 enthusiast  from India</h3>
 <img align="right" alt="Coding" width="400" 
 src="https://www.lambdatest.com/resources/images/news24.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhnik13&label=Profile%20views&color=0e75b6&style=flat" alt="shobhnik13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shobhnik__13" target="blank"><img src="https://img.shields.io/twitter/follow/shobhnik__13?logo=twitter&style=for-the-badge" alt="shobhnik__13" /></a> </p>
 
-- 🔭 I’m currently working on **React Js**
+- 🔭 I’m currently working on **React Js projects**
 
-- 🌱 I’m currently learning **React JS and Blockchain**
+- 🌱 I’m currently learning *Firebase and Blockchain**
 
 - 💬 Ask me about **  Frontend development**
 
@@ -29,6 +29,5 @@ src="https://www.lambdatest.com/resources/images/news24.gif"
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhnik13&" alt="shobhnik13" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 

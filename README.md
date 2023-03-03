@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shobhnik,I love to ship cool stuff</h1>
+<h1 align="center">Hi 👋, I'm Shobhnik,I Love to Ship cool stuff</h1>
 <h3 align="center">A frontend developer and a Web 3.0 enthusiast from India</h3>
 # 💫 About Me:
 

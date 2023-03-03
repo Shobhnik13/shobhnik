@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Shobhnik</h1>
-<h3 align="center">A frontend developer and a Web 3.0 enthusiast  from India</h3>
+<h3 align="center">A frontend developer and a Web 3.0 enthusiast from India</h3>
 # 💫 About Me:
 
-🔭 I’m currently working on React and Firebase projects<br><br>🌱 I’m currently learning Frontend development*<br><br>💬 Ask me about ** Designing stuff**<br><br>📫 How to reach me shobhnikw@gmail.com
+🔭 I’m currently working on Backend development<br><br>🌱 I’m currently learning Frontend development*<br><br>💬 Ask me about ** Designing stuff**<br><br>📫 How to reach me shobhnikw@gmail.com
 
 
 ## 🌐 Socials:
@@ -23,3 +23,5 @@
 [![](https://visitcount.itsvg.in/api?id=Shobhnik13&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+

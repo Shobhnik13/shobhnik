@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer and a Web 3.0 enthusiast from India</h3>
 # 💫 About Me:
 
-🔭 I’m currently working on React and Firebase projects<br><br>🌱 I’m currently learning Backend development*<br><br>💬 Ask me about ** Designing stuff**<br><br>📫 How to reach me shobhnikw@gmail.com
+🔭 I’m currently polishing my skills of react js and firebase<br><br>🌱 I’m currently learning Backend development*<br><br>💬 Ask me about Frontend development <br><br>📫 How to reach me shobhnikw@gmail.com
 
 
 ## 🌐 Socials:

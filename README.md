@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhnik13" alt="shobhnik13" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Shobhnik__13" target="blank"><img src="https://img.shields.io/twitter/follow/shobhnik13?logo=twitter&style=for-the-badge" alt="shobhnik13" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Shobhnik__13" target="blank"><img src="https://img.shields.io/twitter/follow/shobhnik13?logo=twitter&style=for-the-badge" alt="shobhnik__13" /></a> </p>
 
 - 🔭 I’m currently working on **full stack projects**
 

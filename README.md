@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhnik13" alt="shobhnik13" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shobhnik13" target="blank"><img src="https://img.shields.io/twitter/follow/shobhnik13?logo=twitter&style=for-the-badge" alt="shobhnik13" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Shobhnik__13" target="blank"><img src="https://img.shields.io/twitter/follow/shobhnik13?logo=twitter&style=for-the-badge" alt="shobhnik13" /></a> </p>
 
 - 🔭 I’m currently working on **full stack projects**
 
@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shobhnik13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobhnik13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shobhnik wadhwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhnik wadhwa" height="30" width="40" /></a>
+<a href="https://twitter.com/Shobhnik__13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shobhnik13" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/shobhnik wadhwa](https://www.linkedin.com/in/shobhnik-wadhwa-9986b6203/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhnik wadhwa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shobhnik_1326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shobhnik_1326" height="30" width="40" /></a>
 </p>
 

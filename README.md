@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full-stack projects**
 
-- 👨‍💻 All of my projects are available at [https://shobhnik.vercel.app/](https://shobhnik.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shobhnik.vercel.app/]((https://shobhnik.tech/))
 
 - 📫 How to reach me **shobhnikw@gmail.com**
 

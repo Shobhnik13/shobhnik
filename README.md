@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shobhnikw@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p1_yNQKs0ejiRk56zzLuh27FOfdk-nvj/view?usp=sharing](https://drive.google.com/file/d/1p1_yNQKs0ejiRk56zzLuh27FOfdk-nvj/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1D65MUYphic4Nzp38AW66yYsjxhil7FZd/view?usp=drive_link](https://drive.google.com/file/d/1D65MUYphic4Nzp38AW66yYsjxhil7FZd/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
